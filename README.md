@@ -1,2 +1,3 @@
-# kidsdancepartynyc.github.io
-Kids Dance Party NYC Website
+# Kids Dance Party NYC Website
+
+Static website for Kids Dance Party NYC.
