@@ -1,3 +1,3 @@
 # Kids Dance Party NYC Website
 
-Static website for Kids Dance Party NYC.
+Static GitHub Pages website for Kids Dance Party NYC.
